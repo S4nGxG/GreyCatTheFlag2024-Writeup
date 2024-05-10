@@ -116,4 +116,4 @@ p.sendlineafter('name: ', payload)
 
 p.interactive()
 ```
-> ##### *grey{4s_34sy_4s_t4k1ng_c4ndy_fr4m_4_b4by}*
+> ### *grey{4s_34sy_4s_t4k1ng_c4ndy_fr4m_4_b4by}*
